@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840154289933",
+    "project_id": "ultravetjp-app",
+    "storage_bucket": "ultravetjp-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840154289933:android:72ec5f87c23b91b9fe4244",
+        "android_client_info": {
+          "package_name": "com.example.ultravetjp_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUUScL7__6P45F3FPMX9QgfL8dxmtALcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
